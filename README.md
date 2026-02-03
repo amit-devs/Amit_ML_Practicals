@@ -1,1 +1,1 @@
-My ML Project
+My ML Practicals
