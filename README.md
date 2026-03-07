@@ -1,1 +1,1 @@
-These are all my ML Practials.
+These are all the ML practicals I completed in college.
